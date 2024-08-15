@@ -7,9 +7,10 @@ Descriptografia de Mensagens: Decodifique mensagens previamente criptografadas.
 Copiar Mensagem: Copie o resultado da criptografia/descriptografia para a área de transferência com um único clique.
 Limpar Mensagem: Limpe os campos de entrada e saída para começar uma nova criptografia/descriptografia.
 Tecnologias Utilizadas
-HTML5: Estrutura da página.
-CSS3: Estilização e responsividade da aplicação.
-JavaScript: Lógica para criptografar, descriptografar, copiar e limpar mensagens.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 Como Usar
 Pré-requisitos
@@ -64,9 +65,13 @@ Licença
 Este projeto é licenciado sob a Licença MIT.
 
 Contato
-Desenvolvido por Fabiana Cortello. Entre em contato:
+Desenvolvido por Fabiana Cortello. 
 
-LinkedIn
-GitHub
-Email: biofabi@gmail.com
+Entre em contato:
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)
 
