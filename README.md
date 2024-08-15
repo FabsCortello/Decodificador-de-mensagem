@@ -1,5 +1,8 @@
+<p align="center">
+<img src ="imagens/codigos.png">
+</p>
 <h1 align="center"> Decodificador de Mensagem </h1>
-<img src ="/Decodificador-de-mensagem/imagens/codigos.png">
+
 Este projeto é uma aplicação web simples que permite a criptografia e descriptografia de mensagens. O objetivo é proporcionar uma maneira fácil e rápida de codificar mensagens utilizando regras básicas de substituição de caracteres.
 
 <h2>Funcionalidades:</h2>
@@ -13,7 +16,8 @@ Este projeto é uma aplicação web simples que permite a criptografia e descrip
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<h2>Como Usar</h2>
+<h2>Acesse:</h2> https://decodificador-de-mensagem.vercel.app/
+<h2>Como Usar:</h2>
 Pré-requisitos
 Para executar este projeto, você precisará de um navegador web moderno. Não são necessárias instalações adicionais.
 
